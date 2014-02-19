@@ -3,7 +3,7 @@ pititomore
 ## Webpage
 Personal webpage for Paul Salaberria.
 
-## Compile less file
+## Compile less files
 
 
 ```
